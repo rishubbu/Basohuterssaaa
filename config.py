@@ -23,10 +23,8 @@ class config:
     GIT_URL_WITH_TOKEN = "https://x@github.com/john-wick00/Yumeko.git" 
 
   #YOUTUBE API
-   API_URL = "https://api.thequickearn.xyz"
-   API_KEY = "30DxNexGenBots9d11bc"
-
-    #Info
+    API_URL = "https://api.thequickearn.xyz"
+    API_KEY = "30DxNexGenBots9d11bc"
     BOT_VERSION = "3.0"
     OWNER_ID = 6018803920
     OWNER_USERNAME = "slayer1237"
