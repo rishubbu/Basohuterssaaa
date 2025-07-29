@@ -35,10 +35,10 @@ class config:
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
-    STATS_IMG_URL = "https://envs.sh/s-n.jpeg"
-    START_IMG_URL = "https://files.catbox.moe/wap8y8.jpg"
-    HELP_IMG_URL = "https://files.catbox.moe/rc0qug.jpg"
-    ALIVE_IMG_URL = "https://files.catbox.moe/m4052y.jpg"
+    STATS_IMG_URL = "https://files.catbox.moe/abny0k.jpg"
+    START_IMG_URL = "https://files.catbox.moe/xl7rni.jpg"
+    HELP_IMG_URL = "https://files.catbox.moe/u8xpv1.jpg"
+    ALIVE_IMG_URL = "https://files.catbox.moe/du3d0a.jpg"
     SESSION_STRING = "BQFQez4AUECFnmhMLdXCB714R0-Ut98uqKJcXRg4KuXgpg0NOYI-tcbxytqTZ2Ctpv3Q14I7opOwyxXune-e0mejbKgRCaIesp1v259iGfqnTXdkhjwJDIxK_sw8hUkysU2-h_8zkJBsZ4LRQU8kFueYCjmUlryDeEnLLFawcXPHsssZFGQ8JtwQiNKzMx6daIYVs55ahau6mZyJqjM_1fwrxEBlwzr8-iCyAYM-Kd2olUrJFI9Ld9kM4CLcUsqi99mUVQsb9jNexZknaVp2dCmKlClXKuur2INoaL5KVAqLfzy2XUB_oLr-U1fI-26T3aQJyUcLuFvimNDK9FydsSiAR5r6uwAAAAHvExD6AA"
     
     MONGODB_URI = "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" 
@@ -97,11 +97,11 @@ votemode = {}
 autoclean = []
 confirmer = {}
 START_IMG_URL = config.START_IMG_URL
-PING_IMG_URL = "https://i.ibb.co/FHYg1WC/5630057244-1727801848.jpg"
-PLAYLIST_IMG_URL = "https://i.ibb.co/LzXQ0H5/5630057244-1727801842.jpg"
+PING_IMG_URL = "https://files.catbox.moe/xl7rni.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/xl7rni.jpg"
 STATS_IMG_URL = config.STATS_IMG_URL
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/xl7rni.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/xl7rni.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
