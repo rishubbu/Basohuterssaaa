@@ -12,9 +12,9 @@ from config import config
 IST = timezone('Asia/Kolkata')
 time_format = "%Y-%m-%d %H:%M:%S"
 
-OWNER_ID = 5630057244
-SPECIAL_FEMALE_ID = 7834395897
-SPECIAL_FEMALE_NAME = "𝘔𝘢𝘱𝘭𝘦<3"
+OWNER_ID = 6018803920
+SPECIAL_FEMALE_ID = 7695261003
+SPECIAL_FEMALE_NAME = "𝚱𝚲𝚴𝚲𝚶 ⎯"
 
 # List of image URLs
 IMAGE_URLS = [
