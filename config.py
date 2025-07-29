@@ -5,7 +5,7 @@ class config:
     #Client
     API_ID = 26249286
     API_HASH = "4e3bf0b014fda4ac752e8f4ab854279b"
-    BOT_TOKEN = "8336737769:AAERsxfMK1qvLy7lHLGYoeJJ1eZt6zOeYgo"
+    BOT_TOKEN = "8336737769:AAE24kSGKiuFyNVPBhclNY5YVhkitM-LEMQ"
     BOT_NAME = "resile"
     BOT_USERNAME = "riselia_xbot"
     BOT_ID = 8336737769
