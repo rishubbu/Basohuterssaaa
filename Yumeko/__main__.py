@@ -176,9 +176,9 @@ async def start_cmd(_, message : Message):
     
     x = await message.reply_text(f"`Hie {message.from_user.first_name} <3`")
     await sleep(0.3)
-    await x.edit_text("🧋")
+    await x.edit_text("🐾")
     await sleep(0.6)
-    await x.edit_text("🧋")
+    await x.edit_text("❄️")
     await sleep(0.6)
     await x.delete()
     
