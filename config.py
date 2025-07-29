@@ -41,7 +41,7 @@ class config:
     ALIVE_IMG_URL = "https://files.catbox.moe/du3d0a.jpg"
     SESSION_STRING = "BQFQez4AUECFnmhMLdXCB714R0-Ut98uqKJcXRg4KuXgpg0NOYI-tcbxytqTZ2Ctpv3Q14I7opOwyxXune-e0mejbKgRCaIesp1v259iGfqnTXdkhjwJDIxK_sw8hUkysU2-h_8zkJBsZ4LRQU8kFueYCjmUlryDeEnLLFawcXPHsssZFGQ8JtwQiNKzMx6daIYVs55ahau6mZyJqjM_1fwrxEBlwzr8-iCyAYM-Kd2olUrJFI9Ld9kM4CLcUsqi99mUVQsb9jNexZknaVp2dCmKlClXKuur2INoaL5KVAqLfzy2XUB_oLr-U1fI-26T3aQJyUcLuFvimNDK9FydsSiAR5r6uwAAAAHvExD6AA"
     
-    MONGODB_URI = "mongodb+srv://slayersan:slayersan@relesia.66e5im1.mongodb.net/?retryWrites=true&w=majority&appName=relesia" 
+    MONGODB_URI = "mongodb+srv://slayersan:slayersanop@relesia.66e5im1.mongodb.net/?retryWrites=true&w=majority&appName=relesia" 
     DATABASE_NAME = "relesia-music"
 
     #API
