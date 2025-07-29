@@ -29,8 +29,8 @@ class config:
     OWNER_ID = 6018803920
     OWNER_USERNAME = "slayer1237"
     SUPPORT_CHAT = -1002745123292
-    SUPPORT_CHAT_USERNAME = "Domihoes"
-    SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
+    SUPPORT_CHAT_USERNAME = "https://t.me/+wBBJZa5IoEQ0ZmQ1"
+    SUPPORT_CHAT_LINK = "https://t.me/+wBBJZa5IoEQ0ZmQ1"
     LOG_CHANNEL = -1002745123292
     ERROR_LOG_CHANNEL = -1002745123292
     DOWNLOAD_LOCATION = "./downloads"
