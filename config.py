@@ -3,12 +3,12 @@ from pyrogram import filters
 class config:
     
     #Client
-    API_ID = 20028561
-    API_HASH = "0f3793daaf4d3905e55b0e44d8719cad"
-    BOT_TOKEN = "x:x"
-    BOT_NAME = "Yumeko"
-    BOT_USERNAME = "YumekoProxBot"
-    BOT_ID = 0
+    API_ID = 26249286
+    API_HASH = "4e3bf0b014fda4ac752e8f4ab854279b"
+    BOT_TOKEN = "8336737769:AAGkq2p97UDCvein5EpHh8DXl9Cx07-WuTA"
+    BOT_NAME = "resile"
+    BOT_USERNAME = "riselia_xbot"
+    BOT_ID = 8336737769
     WORKERS = 20
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -25,13 +25,13 @@ class config:
 
     #Info
     BOT_VERSION = "3.0"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
+    OWNER_ID = 6018803920
+    OWNER_USERNAME = "slayer1237"
+    SUPPORT_CHAT = -1002745123292
     SUPPORT_CHAT_USERNAME = "Domihoes"
     SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    LOG_CHANNEL = -1002745123292
+    ERROR_LOG_CHANNEL = -1002745123292
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
@@ -39,10 +39,10 @@ class config:
     START_IMG_URL = "https://files.catbox.moe/wap8y8.jpg"
     HELP_IMG_URL = "https://files.catbox.moe/rc0qug.jpg"
     ALIVE_IMG_URL = "https://files.catbox.moe/m4052y.jpg"
+    SESSION_STRING = "
     
-    #Database
-    MONGODB_URI = "mongodb://localhost:27017"
-    DATABASE_NAME = "Yumeko"
+    MONGODB_URI = "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" 
+    DATABASE_NAME = "test"
 
     #API
     ARQ_API_KEY = "RLWCED-WZASYO-AWOLTB-ITBWTP-ARQ"
