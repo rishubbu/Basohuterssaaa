@@ -12,7 +12,9 @@
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=john-wick00&repo=Yumekoo&theme=dark)
 
-
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/rishubbu/Basohuterssaaa"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
+</p>
 ## Requirements 
 
 - Python 3.8+ or 3.7
